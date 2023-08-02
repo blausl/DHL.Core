@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.AssemblyInfo.cs
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\bin\Debug\net6.0\FCore.DHL.Drive.exe
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\bin\Debug\net6.0\FCore.DHL.Drive.deps.json
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\bin\Debug\net6.0\FCore.DHL.Drive.runtimeconfig.json
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\bin\Debug\net6.0\FCore.DHL.Drive.dll
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\bin\Debug\net6.0\FCore.DHL.Drive.pdb
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.dll
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\refint\FCore.DHL.Drive.dll
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.pdb
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\FCore.DHL.Drive.genruntimeconfig.cache
+C:\Users\pc\source\repos\FineDHL\FCore.DHL.Drive\obj\Debug\net6.0\ref\FCore.DHL.Drive.dll
